@@ -20,7 +20,7 @@ git push origin main
 
 ```
 
-## GCP Configurations
+## GCLOUD Configurations
 
 ```bash
 gcloud init
